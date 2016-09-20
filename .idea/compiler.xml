@@ -11,7 +11,7 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
-      <entry name="!?*.aj" />
+      <entry name="testtest neuer text naechster commit blabla" />
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
@@ -20,3 +20,4 @@
     </annotationProcessing>
   </component>
 </project>
+
